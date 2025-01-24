@@ -17,7 +17,7 @@ public class SimpleTask implements Task {
 
     @Override
     public void display() {
-        System.out.println("Simple Task: " + title);
+        System.out.println("|-Simple Task: " + title);
     }
 
 }
